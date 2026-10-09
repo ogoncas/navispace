@@ -1,0 +1,9 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Name=NaviSpace
+Comment=Alternador de espaços de trabalho refinado
+Icon=preferences-desktop-workspaces
+X-XFCE-Module=navispace
+X-XFCE-Internal=false
+X-XFCE-Unique=false
+X-XFCE-API=2.0
