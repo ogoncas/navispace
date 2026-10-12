@@ -24,3 +24,5 @@ Indicador de espaços de trabalho para o painel XFCE, desenvolvido em GTK3, com 
 
 ```
 sudo apt install build-essential libgtk-3-dev libxfce4panel-2.0-dev libwnck-3-dev libxfce4util-dev
+```
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/997bf7c6-b3c1-4526-b119-674b5115359e" />
